@@ -5,7 +5,7 @@
 	
 		<script type="text/javascript">
 		function showResume(resume){
-			alert("This is -My Resume: "+resume);
+			alert("This is My Resumeeeeeee: "+resume);
 		}
 		
 		</script>
